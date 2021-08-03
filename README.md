@@ -1,4 +1,4 @@
-# To Do List | back-end | NodeJS
+# To Do List | Back-end | NodeJS
 
 An API in NodeJS to register users, with bcrypt, jwt and create task list.
 
